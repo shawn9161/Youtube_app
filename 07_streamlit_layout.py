@@ -31,6 +31,9 @@ col1, col2, col3 = st.columns([1, 2, 1])
 
 with col2:
    st.video("https://www.youtube.com/watch?v=A8brfTw5S0w")
+   st.video("https://www.youtube.com/watch?v=jIG4AaIy-5k")
+   st.video("https://www.youtube.com/watch?v=7fg_klS-2kw")
+   st.video("https://www.youtube.com/watch?v=CHp0Kaidr14")
 
 # 사이드바를 생성하고, 라디오 버튼을 추가합니다.
 with st.sidebar:
